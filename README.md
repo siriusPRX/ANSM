@@ -10,11 +10,12 @@ Official PyTorch implementation of the paper.
 ## 🌟 Citation
 If you find our work useful, please cite:
 ```bibtex  
-@article{peng2025active,
-  title={Active Adversarial Noise Suppression for Image Forgery Localization},
+@article{peng2026active,
+  title={Active adversarial noise suppression for image forgery localization},
   author={Peng, Rongxuan and Tan, Shunquan and Mo, Xianbo and Kot, Alex C and Huang, Jiwu},
-  journal={arXiv preprint arXiv:2506.12871},
-  year={2025}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
